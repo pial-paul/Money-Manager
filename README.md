@@ -20,7 +20,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/money-manager.git
+   git clone https://github.com/pial-paul/money-manager.git
    ```
 
 2. Install dependencies (if using a backend server):
